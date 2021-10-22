@@ -1,0 +1,12 @@
+border_width = 2
+margin = 8
+
+#Candy colors
+default_border_color = "#246BCE"
+floating_border_color = "#bd93f9"
+focused_border_color = "#00BFFF"
+
+#Default ArcoLinux colors
+#default_border_color = "#4c566a"
+#floating_border_color = "#4c566a"
+#focused_border_color = "#5e81ac"
